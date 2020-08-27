@@ -1,8 +1,8 @@
 🎭 Discord bots  🎭
 ------------------------------------------------------------
- Discord bots
+ Sample discord bots
  
- 🎭 Ping pong bot 🎱 
+ 🎭 Ping js bot 🎱 
  ------------------------------------------------------------
  Discord bot made with discord.js and node.js
  
