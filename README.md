@@ -1,6 +1,6 @@
 🎭 Discord bots  🎭
 ------------------------------------------------------------
- Sample discord bots
+ Sample discord bots made for Medium article
  
  🎭 Ping js bot 🎱 
  ------------------------------------------------------------
@@ -17,5 +17,10 @@
 ![Discord.py](https://img.shields.io/badge/-Discord.py-black?style=flat-square&logo=Discord)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=Anaconda&logoColor=white)
+
+
+🎭 Bot in action 🎉
+-------------------------------------------------------------
+<p align="center"><img src="documentation/assets/ping-pong-responses.png" /></p>
 
 
