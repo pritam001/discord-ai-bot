@@ -1,0 +1,4 @@
+# Discord client-server connection
+discord
+# Reads the key-value pair from .env file and adds them to environment variable.
+python-dotenv
